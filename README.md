@@ -2,8 +2,9 @@
 
 Tecnologoias ultilizadas:
 
-Node.js
-Excel4node 
+- Node.js
+- Excel4node 
+
 
 Excel4node é uma biblioteca para Node.js que permite criar e manipular arquivos Excel (.xlsx). 
 Com ela, você pode gerar planilhas com células formatadas, fórmulas, estilos personalizados, entre outras funcionalidades.
